@@ -16,3 +16,4 @@ The latest update was to replace all malloc for better memory management, becaus
 But ultimately, it didn't change anything on the amount of memory available during operation, but anyway the code is cleaner like that
 
 Tips: use static relays to avoid noise when triggering
+Tips2: use isolated power supply or encapsulated DC-DC to avoid external interference
