@@ -12,4 +12,7 @@ all this from the network
 these are a project dedicated to people skilled in the field of coding, and not intended for the general public ( because I will not provide more information about the operation, experts will simply understand )
 More information on the modules present later, but you do not want to use my modules
 
+The latest update was to replace all malloc for better memory management, because my arduino is full of crackers although there was no memory leak
+But ultimately, it didn't change anything on the amount of memory available during operation, but anyway the code is cleaner like that
+
 Tips: use static relays to avoid noise when triggering
