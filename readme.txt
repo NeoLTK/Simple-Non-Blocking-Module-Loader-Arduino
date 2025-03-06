@@ -11,3 +11,5 @@ all this from the network
 
 these are a project dedicated to people skilled in the field of coding, and not intended for the general public ( because I will not provide more information about the operation, experts will simply understand )
 More information on the modules present later, but you do not want to use my modules
+
+Tips: use static relays to avoid noise when triggering
